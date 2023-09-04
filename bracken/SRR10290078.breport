@@ -1,0 +1,16 @@
+100.00	99881	0	R	1	root
+100.00	99881	0	R1	131567	  cellular organisms
+100.00	99881	0	D	2759	    Eukaryota
+100.00	99881	0	D1	33154	      Opisthokonta
+100.00	99881	0	K	4751	        Fungi
+100.00	99881	0	K1	451864	          Dikarya
+100.00	99881	0	P	4890	            Ascomycota
+100.00	99881	0	P1	716545	              saccharomyceta
+100.00	99881	0	P2	147537	                Saccharomycotina
+100.00	99881	0	C	4891	                  Saccharomycetes
+100.00	99881	0	O	4892	                    Saccharomycetales
+100.00	99881	0	F	4893	                      Saccharomycetaceae
+100.00	99881	0	G	4930	                        Saccharomyces
+99.84	99719	99719	S	4932	                          Saccharomyces cerevisiae
+0.15	145	145	S	114524	                          Saccharomyces kudriavzevii
+0.02	16	16	S	114525	                          Saccharomyces mikatae

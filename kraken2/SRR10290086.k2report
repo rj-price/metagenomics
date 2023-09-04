@@ -1,0 +1,93 @@
+ 93.03	127547	127547	0	0	U	0	unclassified
+  6.97	9557	0	186665	915	R	1	root
+  6.97	9557	0	186665	915	R1	131567	  cellular organisms
+  6.97	9557	0	186665	915	D	2759	    Eukaryota
+  6.97	9557	0	186665	915	D1	33154	      Opisthokonta
+  6.97	9557	0	186665	915	K	4751	        Fungi
+  6.97	9557	0	186662	914	K1	451864	          Dikarya
+  6.97	9557	0	186576	899	P	4890	            Ascomycota
+  6.97	9557	2	186552	897	P1	716545	              saccharomyceta
+  5.91	8102	0	120678	333	P2	147538	                Pezizomycotina
+  5.91	8102	3	120678	333	P3	716546	                  leotiomyceta
+  5.26	7217	0	111024	164	P4	715989	                    sordariomyceta
+  5.15	7062	1	105178	114	C	147550	                      Sordariomycetes
+  5.15	7059	0	105019	95	C1	222543	                        Hypocreomycetidae
+  5.15	7059	0	100261	91	O	5125	                          Hypocreales
+  5.15	7056	0	95789	34	F	110618	                            Nectriaceae
+  5.15	7056	12	95789	34	G	5506	                              Fusarium
+  5.12	7013	0	80645	13	G1	569360	                                Fusarium sambucinum species complex
+  5.10	6994	0	80553	4	S	101028	                                  Fusarium pseudograminearum
+  5.10	6994	6994	80553	4	S1	1028729	                                    Fusarium pseudograminearum CS3096
+  0.01	19	0	87	5	S	5518	                                  Fusarium graminearum
+  0.01	19	19	87	5	S1	229533	                                    Fusarium graminearum PH-1
+  0.02	27	27	14999	7	G1	232080	                                Fusarium solani species complex
+  0.00	4	0	17	4	G1	171631	                                Fusarium oxysporum species complex
+  0.00	4	1	17	4	S	5507	                                  Fusarium oxysporum
+  0.00	3	0	12	3	S1	59765	                                    Fusarium oxysporum f. sp. lycopersici
+  0.00	3	3	12	3	S2	426428	                                      Fusarium oxysporum f. sp. lycopersici 4287
+  0.00	3	0	106	51	F	5129	                            Hypocreaceae
+  0.00	3	0	106	51	G	5543	                              Trichoderma
+  0.00	3	3	106	51	S	2034170	                                Trichoderma breve
+  0.00	2	0	159	19	C1	222544	                        Sordariomycetidae
+  0.00	1	0	128	7	O	5139	                          Sordariales
+  0.00	1	0	69	4	F	35718	                            Chaetomiaceae
+  0.00	1	0	69	4	G	1920207	                              Thermothelomyces
+  0.00	1	0	69	4	S	78579	                                Thermothelomyces thermophilus
+  0.00	1	1	69	4	S1	573729	                                  Thermothelomyces thermophilus ATCC 42464
+  0.00	1	0	31	12	O	639021	                          Magnaporthales
+  0.00	1	0	31	12	F	2528436	                            Pyriculariaceae
+  0.00	1	0	31	12	G	48558	                              Pyricularia
+  0.00	1	1	9	7	S	1578925	                                Pyricularia pennisetigena
+  0.11	155	0	5846	50	C	147548	                      Leotiomycetes
+  0.11	155	0	5846	50	O	5178	                        Helotiales
+  0.11	155	0	5846	50	F	28983	                          Sclerotiniaceae
+  0.11	155	0	5846	50	G	33196	                            Botrytis
+  0.11	155	0	5846	50	S	40559	                              Botrytis cinerea
+  0.11	155	155	5846	50	S1	332648	                                Botrytis cinerea B05.10
+  0.64	882	0	9424	167	C	147545	                    Eurotiomycetes
+  0.64	882	0	9424	167	C1	451871	                      Eurotiomycetidae
+  0.64	882	0	9424	167	O	5042	                        Eurotiales
+  0.64	877	84	9094	128	F	1131492	                          Aspergillaceae
+  0.46	637	0	754	9	G	5073	                            Penicillium
+  0.46	637	637	754	9	S	69781	                              Penicillium oxalicum
+  0.11	156	0	5295	110	G	5052	                            Aspergillus
+  0.10	136	136	4833	52	S	1069201	                              Aspergillus luchuensis
+  0.01	12	12	421	50	S	182096	                              Aspergillus chevalieri
+  0.00	5	0	7	2	G1	2720872	                              Aspergillus subgen. Fumigati
+  0.00	5	0	7	2	S	746128	                                Aspergillus fumigatus
+  0.00	5	5	7	2	S1	330879	                                  Aspergillus fumigatus Af293
+  0.00	3	3	8	2	S	1220207	                              Aspergillus puulaauensis
+  0.00	5	0	118	36	F	28568	                          Trichocomaceae
+  0.00	5	0	118	36	G	5094	                            Talaromyces
+  0.00	4	0	88	29	G1	2752537	                              Talaromyces sect. Talaromyces
+  0.00	4	4	88	29	S	37727	                                Talaromyces marneffei
+  0.00	1	0	30	7	G1	2752542	                              Talaromyces sect. Islandici
+  0.00	1	1	30	7	S	121627	                                Talaromyces rugulosus
+  1.06	1453	0	65867	563	P2	147537	                Saccharomycotina
+  1.06	1453	0	65867	563	C	4891	                  Saccharomycetes
+  1.06	1453	0	65867	563	O	4892	                    Saccharomycetales
+  0.60	820	0	51730	418	F	4893	                      Saccharomycetaceae
+  0.47	641	1	37165	153	G	4930	                        Saccharomyces
+  0.47	640	0	23852	66	S	4932	                          Saccharomyces cerevisiae
+  0.47	640	640	23852	66	S1	559292	                            Saccharomyces cerevisiae S288C
+  0.12	167	0	10882	94	G	4948	                        Torulaspora
+  0.12	167	167	9235	74	S	4950	                          Torulaspora delbrueckii
+  0.01	8	0	272	95	G	374468	                        Nakaseomyces
+  0.01	8	8	272	95	S	5478	                          Nakaseomyces glabratus
+  0.00	4	0	165	57	G	300275	                        Lachancea
+  0.00	4	0	165	57	S	381046	                          Lachancea thermotolerans
+  0.00	4	4	165	57	S1	559295	                            Lachancea thermotolerans CBS 6340
+  0.34	469	0	9440	41	F	1156497	                      Pichiaceae
+  0.34	469	0	9436	39	G	4919	                        Pichia
+  0.34	469	469	9436	39	S	4909	                          Pichia kudriavzevii
+  0.12	160	0	4594	54	O1	2916678	                      CUG-Ser1 clade
+  0.12	160	0	4594	54	F	766764	                        Debaryomycetaceae
+  0.12	160	0	4592	53	F1	1535325	                          Candida/Lodderomyces clade
+  0.12	160	33	4592	53	G	5475	                            Candida
+  0.09	126	0	3919	44	S	5476	                              Candida albicans
+  0.09	126	126	3919	44	S1	237561	                                Candida albicans SC5314
+  0.00	1	0	59	1	S	273371	                              Candida orthopsilosis
+  0.00	1	1	59	1	S1	1136231	                                Candida orthopsilosis Co 90-125
+  0.00	4	0	97	46	F	34365	                      Saccharomycodaceae
+  0.00	4	0	97	46	G	36034	                        Saccharomycodes
+  0.00	4	4	97	46	S	36035	                          Saccharomycodes ludwigii

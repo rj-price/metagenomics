@@ -1,0 +1,10 @@
+name	taxonomy_id	taxonomy_lvl	kraken_assigned_reads	added_reads	new_est_reads	fraction_total_reads
+Saccharomyces cerevisiae	4932	S	76793	81	76874	0.99521
+Saccharomyces kudriavzevii	114524	S	194	0	194	0.00251
+Saccharomyces mikatae	114525	S	11	0	11	0.00014
+Torulaspora delbrueckii	4950	S	13	0	13	0.00017
+Pichia kudriavzevii	4909	S	82	0	82	0.00106
+Candida albicans	5476	S	30	0	30	0.00039
+Aspergillus fumigatus	746128	S	14	0	14	0.00018
+Aspergillus chevalieri	182096	S	10	1	11	0.00014
+Penicillium oxalicum	69781	S	10	2	12	0.00016

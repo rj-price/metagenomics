@@ -1,0 +1,5 @@
+name	taxonomy_id	taxonomy_lvl	kraken_assigned_reads	added_reads	new_est_reads	fraction_total_reads
+Saccharomyces cerevisiae	4932	S	28802	65	28867	0.99541
+Saccharomyces kudriavzevii	114524	S	53	0	53	0.00183
+Fusarium pseudograminearum	101028	S	41	3	44	0.00152
+Penicillium oxalicum	69781	S	24	11	35	0.00121

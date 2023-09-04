@@ -1,0 +1,4 @@
+name	taxonomy_id	taxonomy_lvl	kraken_assigned_reads	added_reads	new_est_reads	fraction_total_reads
+Saccharomyces cerevisiae	4932	S	99614	105	99719	0.99838
+Saccharomyces kudriavzevii	114524	S	145	0	145	0.00145
+Saccharomyces mikatae	114525	S	16	0	16	0.00016

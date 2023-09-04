@@ -1,0 +1,38 @@
+100.00	77244	0	R	1	root
+100.00	77244	0	R1	131567	  cellular organisms
+100.00	77244	0	D	2759	    Eukaryota
+100.00	77244	0	D1	33154	      Opisthokonta
+100.00	77244	0	K	4751	        Fungi
+100.00	77244	0	K1	451864	          Dikarya
+100.00	77244	0	P	4890	            Ascomycota
+100.00	77244	0	P1	716545	              saccharomyceta
+99.95	77205	0	P2	147537	                Saccharomycotina
+99.95	77205	0	C	4891	                  Saccharomycetes
+99.95	77205	0	O	4892	                    Saccharomycetales
+99.80	77093	0	F	4893	                      Saccharomycetaceae
+99.79	77079	0	G	4930	                        Saccharomyces
+99.52	76874	76874	S	4932	                          Saccharomyces cerevisiae
+0.25	194	194	S	114524	                          Saccharomyces kudriavzevii
+0.01	11	11	S	114525	                          Saccharomyces mikatae
+0.02	13	0	G	4948	                        Torulaspora
+0.02	13	13	S	4950	                          Torulaspora delbrueckii
+0.11	82	0	F	1156497	                      Pichiaceae
+0.11	82	0	G	4919	                        Pichia
+0.11	82	82	S	4909	                          Pichia kudriavzevii
+0.04	30	0	O1	2916678	                      CUG-Ser1 clade
+0.04	30	0	F	766764	                        Debaryomycetaceae
+0.04	30	0	F1	1535325	                          Candida/Lodderomyces clade
+0.04	30	0	G	5475	                            Candida
+0.04	30	30	S	5476	                              Candida albicans
+0.05	39	0	P2	147538	                Pezizomycotina
+0.05	39	0	P3	716546	                  leotiomyceta
+0.05	39	0	C	147545	                    Eurotiomycetes
+0.05	39	0	C1	451871	                      Eurotiomycetidae
+0.05	39	0	O	5042	                        Eurotiales
+0.05	39	0	F	1131492	                          Aspergillaceae
+0.03	26	0	G	5052	                            Aspergillus
+0.02	14	0	G1	2720872	                              Aspergillus subgen. Fumigati
+0.02	14	14	S	746128	                                Aspergillus fumigatus
+0.02	11	11	S	182096	                              Aspergillus chevalieri
+0.02	12	0	G	5073	                            Penicillium
+0.02	12	12	S	69781	                              Penicillium oxalicum

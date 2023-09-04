@@ -1,0 +1,61 @@
+ 81.62	129037	129037	0	0	U	0	unclassified
+ 18.38	29051	0	1871316	643	R	1	root
+ 18.38	29051	0	1871316	643	R1	131567	  cellular organisms
+ 18.38	29051	0	1871316	643	D	2759	    Eukaryota
+ 18.38	29051	0	1871316	643	D1	33154	      Opisthokonta
+ 18.38	29051	0	1871316	643	K	4751	        Fungi
+ 18.38	29051	0	1871315	642	K1	451864	          Dikarya
+ 18.38	29051	0	1871301	628	P	4890	            Ascomycota
+ 18.38	29051	3	1871298	626	P1	716545	              saccharomyceta
+ 18.31	28953	0	1845096	451	P2	147537	                Saccharomycotina
+ 18.31	28953	0	1845096	451	C	4891	                  Saccharomycetes
+ 18.31	28953	0	1845096	451	O	4892	                    Saccharomycetales
+ 18.30	28936	0	1844886	389	F	4893	                      Saccharomycetaceae
+ 18.30	28926	63	1824651	197	G	4930	                        Saccharomyces
+ 18.22	28802	0	1179717	69	S	4932	                          Saccharomyces cerevisiae
+ 18.22	28802	28802	1179717	69	S1	559292	                            Saccharomyces cerevisiae S288C
+  0.03	53	0	37774	33	S	114524	                          Saccharomyces kudriavzevii
+  0.03	53	53	37774	33	S1	226230	                            Saccharomyces kudriavzevii IFO 1802
+  0.01	8	0	482	31	S	114525	                          Saccharomyces mikatae
+  0.01	8	8	482	31	S1	226126	                            Saccharomyces mikatae IFO 1815
+  0.01	8	0	146	80	G	4948	                        Torulaspora
+  0.01	8	8	123	64	S	4950	                          Torulaspora delbrueckii
+  0.00	2	0	113	87	G	374468	                        Nakaseomyces
+  0.00	2	2	113	87	S	5478	                          Nakaseomyces glabratus
+  0.01	10	0	58	15	O1	2916678	                      CUG-Ser1 clade
+  0.01	10	0	57	14	F	766764	                        Debaryomycetaceae
+  0.01	10	0	55	12	F1	1535325	                          Candida/Lodderomyces clade
+  0.01	10	10	55	12	G	5475	                            Candida
+  0.00	7	0	149	44	F	1156497	                      Pichiaceae
+  0.00	7	0	136	37	G	4919	                        Pichia
+  0.00	7	7	136	37	S	4909	                          Pichia kudriavzevii
+  0.06	95	0	26202	175	P2	147538	                Pezizomycotina
+  0.06	95	0	26202	175	P3	716546	                  leotiomyceta
+  0.04	58	0	25928	118	P4	715989	                    sordariomyceta
+  0.03	49	2	25650	66	C	147550	                      Sordariomycetes
+  0.03	42	0	25283	29	C1	222543	                        Hypocreomycetidae
+  0.03	42	0	25281	27	O	5125	                          Hypocreales
+  0.03	42	0	25272	20	F	110618	                            Nectriaceae
+  0.03	42	1	25272	20	G	5506	                              Fusarium
+  0.03	41	0	25225	8	G1	569360	                                Fusarium sambucinum species complex
+  0.03	41	0	25223	6	S	101028	                                  Fusarium pseudograminearum
+  0.03	41	41	25223	6	S1	1028729	                                    Fusarium pseudograminearum CS3096
+  0.00	5	0	367	37	C1	222544	                        Sordariomycetidae
+  0.00	5	0	366	36	O	639021	                          Magnaporthales
+  0.00	5	0	366	36	F	2528436	                            Pyriculariaceae
+  0.00	5	1	366	36	G	48558	                              Pyricularia
+  0.00	4	4	90	24	S	1578925	                                Pyricularia pennisetigena
+  0.01	9	0	278	52	C	147548	                      Leotiomycetes
+  0.01	9	0	278	52	O	5178	                        Helotiales
+  0.01	9	0	278	52	F	28983	                          Sclerotiniaceae
+  0.01	9	0	278	52	G	33196	                            Botrytis
+  0.01	9	0	278	52	S	40559	                              Botrytis cinerea
+  0.01	9	9	278	52	S1	332648	                                Botrytis cinerea B05.10
+  0.02	37	0	264	55	C	147545	                    Eurotiomycetes
+  0.02	37	0	264	55	C1	451871	                      Eurotiomycetidae
+  0.02	37	0	264	55	O	5042	                        Eurotiales
+  0.02	37	11	260	54	F	1131492	                          Aspergillaceae
+  0.02	24	0	28	2	G	5073	                            Penicillium
+  0.02	24	24	28	2	S	69781	                              Penicillium oxalicum
+  0.00	2	0	77	44	G	5052	                            Aspergillus
+  0.00	2	2	72	39	S	1069201	                              Aspergillus luchuensis

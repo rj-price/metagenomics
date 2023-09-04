@@ -1,0 +1,40 @@
+  2.38	2439	2439	0	0	U	0	unclassified
+ 97.62	99893	0	6571118	277	R	1	root
+ 97.62	99893	0	6571118	277	R1	131567	  cellular organisms
+ 97.62	99893	0	6571118	277	D	2759	    Eukaryota
+ 97.62	99893	0	6571118	277	D1	33154	      Opisthokonta
+ 97.62	99893	0	6571118	277	K	4751	        Fungi
+ 97.62	99893	0	6571118	277	K1	451864	          Dikarya
+ 97.62	99893	0	6571116	275	P	4890	            Ascomycota
+ 97.62	99893	1	6571115	274	P1	716545	              saccharomyceta
+ 97.61	99890	0	6570489	250	P2	147537	                Saccharomycotina
+ 97.61	99890	0	6570489	250	C	4891	                  Saccharomycetes
+ 97.61	99890	0	6570489	250	O	4892	                    Saccharomycetales
+ 97.60	99880	0	6570330	216	F	4893	                      Saccharomycetaceae
+ 97.60	99880	105	6504005	203	G	4930	                        Saccharomyces
+ 97.34	99614	0	4184102	66	S	4932	                          Saccharomyces cerevisiae
+ 97.34	99614	99614	4184102	66	S1	559292	                            Saccharomyces cerevisiae S288C
+  0.14	145	0	134456	36	S	114524	                          Saccharomyces kudriavzevii
+  0.14	145	145	134456	36	S1	226230	                            Saccharomyces kudriavzevii IFO 1802
+  0.02	16	0	1980	32	S	114525	                          Saccharomyces mikatae
+  0.02	16	16	1980	32	S1	226126	                            Saccharomyces mikatae IFO 1815
+  0.01	8	0	152	30	F	1156497	                      Pichiaceae
+  0.01	8	0	151	29	G	4919	                        Pichia
+  0.01	8	8	151	29	S	4909	                          Pichia kudriavzevii
+  0.00	2	0	7	4	O1	2916678	                      CUG-Ser1 clade
+  0.00	2	0	7	4	F	766764	                        Debaryomycetaceae
+  0.00	2	0	7	4	F1	1535325	                          Candida/Lodderomyces clade
+  0.00	2	2	7	4	G	5475	                            Candida
+  0.00	2	0	626	24	P2	147538	                Pezizomycotina
+  0.00	2	0	626	24	P3	716546	                  leotiomyceta
+  0.00	2	0	623	22	P4	715989	                    sordariomyceta
+  0.00	2	0	623	22	C	147550	                      Sordariomycetes
+  0.00	2	0	605	13	C1	222543	                        Hypocreomycetidae
+  0.00	2	0	605	13	O	5125	                          Hypocreales
+  0.00	2	0	603	11	F	110618	                            Nectriaceae
+  0.00	2	0	603	11	G	5506	                              Fusarium
+  0.00	2	0	601	9	G1	569360	                                Fusarium sambucinum species complex
+  0.00	1	0	5	5	S	5518	                                  Fusarium graminearum
+  0.00	1	1	5	5	S1	229533	                                    Fusarium graminearum PH-1
+  0.00	1	0	595	3	S	101028	                                  Fusarium pseudograminearum
+  0.00	1	1	595	3	S1	1028729	                                    Fusarium pseudograminearum CS3096

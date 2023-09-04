@@ -1,0 +1,11 @@
+name	taxonomy_id	taxonomy_lvl	kraken_assigned_reads	added_reads	new_est_reads	fraction_total_reads
+Fusarium pseudograminearum	101028	S	6994	14	7008	0.73838
+Fusarium graminearum	5518	S	19	0	19	0.00200
+Botrytis cinerea	40559	S	155	0	155	0.01633
+Penicillium oxalicum	69781	S	637	77	714	0.07523
+Aspergillus luchuensis	1069201	S	136	7	143	0.01507
+Aspergillus chevalieri	182096	S	12	1	13	0.00137
+Saccharomyces cerevisiae	4932	S	640	1	641	0.06754
+Torulaspora delbrueckii	4950	S	167	0	167	0.01760
+Pichia kudriavzevii	4909	S	469	0	469	0.04942
+Candida albicans	5476	S	126	33	159	0.01675
