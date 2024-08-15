@@ -39,6 +39,13 @@ bracken-build -d krakendb -t 8 -k 35 -l 100
 
 ```
 
+### Inspecting Kraken2 database contents
+```
+kraken2-inspect --db db/krakendb | awk '$4 == "K"' 
+
+# 100.00  669780784       453     K       4751            Fungi
+```
+
 ### Classify microbiome samples using Kraken2
 ```
 srsh --mem=16G --cpus-per-task=10
@@ -48,6 +55,14 @@ for file in data/*_1.fastq.gz;
     kraken2 --db db/krakendb --threads 8 --report kraken2/"$short".k2report --report-minimizer-data \
         --minimum-hit-groups 3 $file data/"$short"_2.fastq.gz > kraken2/"$short".kraken2
     done
+```
+
+To use larger database, increase memory.
+```
+srun --partition himem --mem 2000G --cpus-per-task 10 --pty bash
+
+kraken2 --db /mnt/shared/apps/databases/krakenuniq/custom_kraken2_rmacleod/kraken2/ --threads 10 --report SRR10290085.k2report --report-minimizer-data \
+        --minimum-hit-groups 3 data/SRR10290085_1.fastq.gz data/SRR10290085_2.fastq.gz > SRR10290085.kraken2
 ```
 
 ### Run bracken for abundance estimation of microbiome samples
@@ -102,7 +117,34 @@ for file in bracken/*.breport;
 Open the Pavian Shiny app via https://fbreitwieser.shinyapps.io/pavian/. Upload the .breport files and click ‘Sample’ to see the hierarchical classification visualization results.
 
 
+### Other Visualisations
+https://www.microbiomeanalyst.ca/
+
 # References
 [1] https://www.nature.com/articles/s41598-023-40799-x \
 [2] https://www.nature.com/articles/s41596-022-00738-y \
 [3] https://genomics.sschmeier.com/ngs-taxonomic-investigation/index.html \
+[4] https://benlangmead.github.io/aws-indexes/k2 \
+[5] https://unite.ut.ee/ \
+[6] https://github.com/DerrickWood/kraken2/issues/97 \
+[7] https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-020-00900-2 \
+[8] https://www.mdpi.com/2073-4425/13/12/2280 \
+[9] https://onlinelibrary.wiley.com/doi/10.1111/mec.16460 \
+[10] https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9040722/ \
+[11] https://www.sciencedirect.com/science/article/pii/S2667237523000528
+
+
+# To Do
+
+Other datasets:
+- SRR15902155: Metagenome of Vitis vinifera: healthy (ONT)
+- ERR6594846: Metagenome long-read sequencing: white grapes (ONT)
+- ERR6594870: Metagenome long-read sequencing: white grapes (ONT)
+
+- https://ncbi.nlm.nih.gov/bioproject/PRJNA779886 (16S and ITS, Illumina, control vs treatment grapes)
+- https://www.ncbi.nlm.nih.gov/bioproject/PRJNA766154 (Succession of microbial community during grape development, Illumina, target unknown)
+
+
+#! LOOK AT THESE TUTORIALS
+https://carpentries-lab.github.io/metagenomics-analysis/
+https://training.galaxyproject.org/training-material/topics/metagenomics/
